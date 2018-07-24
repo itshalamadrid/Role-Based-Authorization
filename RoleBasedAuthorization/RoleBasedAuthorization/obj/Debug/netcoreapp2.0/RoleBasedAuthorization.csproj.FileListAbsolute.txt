@@ -1,0 +1,11 @@
+C:\Users\shushar.FAREAST\source\repos\RoleBasedAuthorization\RoleBasedAuthorization\bin\Debug\netcoreapp2.0\RoleBasedAuthorization.deps.json
+C:\Users\shushar.FAREAST\source\repos\RoleBasedAuthorization\RoleBasedAuthorization\bin\Debug\netcoreapp2.0\RoleBasedAuthorization.runtimeconfig.json
+C:\Users\shushar.FAREAST\source\repos\RoleBasedAuthorization\RoleBasedAuthorization\bin\Debug\netcoreapp2.0\RoleBasedAuthorization.runtimeconfig.dev.json
+C:\Users\shushar.FAREAST\source\repos\RoleBasedAuthorization\RoleBasedAuthorization\bin\Debug\netcoreapp2.0\RoleBasedAuthorization.dll
+C:\Users\shushar.FAREAST\source\repos\RoleBasedAuthorization\RoleBasedAuthorization\obj\Debug\netcoreapp2.0\RoleBasedAuthorization.csprojAssemblyReference.cache
+C:\Users\shushar.FAREAST\source\repos\RoleBasedAuthorization\RoleBasedAuthorization\obj\Debug\netcoreapp2.0\RoleBasedAuthorization.csproj.CoreCompileInputs.cache
+C:\Users\shushar.FAREAST\source\repos\RoleBasedAuthorization\RoleBasedAuthorization\obj\Debug\netcoreapp2.0\RoleBasedAuthorization.AssemblyInfoInputs.cache
+C:\Users\shushar.FAREAST\source\repos\RoleBasedAuthorization\RoleBasedAuthorization\obj\Debug\netcoreapp2.0\RoleBasedAuthorization.AssemblyInfo.cs
+C:\Users\shushar.FAREAST\source\repos\RoleBasedAuthorization\RoleBasedAuthorization\bin\Debug\netcoreapp2.0\RoleBasedAuthorization.pdb
+C:\Users\shushar.FAREAST\source\repos\RoleBasedAuthorization\RoleBasedAuthorization\obj\Debug\netcoreapp2.0\RoleBasedAuthorization.dll
+C:\Users\shushar.FAREAST\source\repos\RoleBasedAuthorization\RoleBasedAuthorization\obj\Debug\netcoreapp2.0\RoleBasedAuthorization.pdb
